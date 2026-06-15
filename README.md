@@ -1,5 +1,5 @@
 # Supply Chain Management Dashboard (Power BI)
-
+> **Author:** Ilias Mezghit
 ## Overview
 Supply Chain Management for Cars in Power BI provides a comprehensive overview of the entire supply chain process for automotive companies. This includes tracking the flow of materials, components, and finished products from suppliers to manufacturers, distributors, and customers.
 
